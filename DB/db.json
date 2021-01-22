@@ -1,0 +1,53 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Fries",
+      "count": 0,
+      "price": 20,
+      "isInCart": false
+    },
+    {
+      "id": 3,
+      "name": "Cola",
+      "count": 0,
+      "price": 10,
+      "isInCart": false
+    },
+    {
+      "id": 4,
+      "name": "water",
+      "count": 0,
+      "price": 5,
+      "isInCart": false
+    },
+    {
+      "id": 5,
+      "name": "chicken",
+      "count": 0,
+      "price": 25,
+      "isInCart": false
+    },
+    {
+      "id": 6,
+      "name": "large chicken ",
+      "price": "50",
+      "count": 0,
+      "isInCart": false
+    },
+    {
+      "id": 7,
+      "name": "meat",
+      "price": "70",
+      "count": 0,
+      "isInCart": false
+    },
+    {
+      "id": 9,
+      "name": "chesse",
+      "price": "15",
+      "count": 0,
+      "isInCart": false
+    }
+  ]
+}
